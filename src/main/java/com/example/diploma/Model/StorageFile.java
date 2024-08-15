@@ -25,4 +25,5 @@ public class StorageFile {
     @Column(nullable = false)
     private byte[] fileContent;
 
+
 }
